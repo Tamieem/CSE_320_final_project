@@ -1,6 +1,4 @@
 # HW 5
-Good luck and don't cheat!
-
 For my program, the client starts with "./client" and the server will start with "./server 'N'" with N being the number of record entries you want your server to hold in that session.
 
 For each command please be sure to include a space after the word instead of immediately pressing Enter, to ensure peak performance.
